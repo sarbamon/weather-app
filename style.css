@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+.search-box{
+    margin: 30px;
+}
+
+.data{
+    color: red;
+}
