@@ -1,9 +1,3 @@
-// api key {cedd8a2acec147de93941022231609}
-
-
-
-//http://api.weatherapi.com/v1/current.json?key=cedd8a2acec147de93941022231609&q=London&aqi=no
-
 
 const button = document.getElementById("search-button");
 const city = document.getElementById("city-name");
